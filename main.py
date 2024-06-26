@@ -5,8 +5,8 @@ import sys
 
 def main():
     sys.setrecursionlimit(10000)
-    num_rows = 50
-    num_cols = 50
+    num_rows = 20
+    num_cols = 20
     win_width = 800
     win_height = 800
     margin = 25
